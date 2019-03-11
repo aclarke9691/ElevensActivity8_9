@@ -45,7 +45,7 @@ public class ThirteensBoard extends Board {
     /**
      * Determines if the selected cards form a valid group for removal.
      * In Elevens, the legal groups are (1) a pair of non-face cards
-     * whose values add to 11, and (2) a group of three cards consistingg of
+     * whose values add to 11, and (2) a group of three cards consisting of
      * a jack, a queen, and a king in some order.
      * @param selectedCards the list of the indices of the selected cards.
      * @return true if the selected cards form a valid group for removal;
