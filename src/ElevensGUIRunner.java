@@ -5,7 +5,7 @@
 public class ElevensGUIRunner {
 
     /**
-     * Plays the GUI version of Elevens.
+     * Plays the GUI version of pElevens.
      * @param args is not used.
      */
     public static void main(String[] args) {
