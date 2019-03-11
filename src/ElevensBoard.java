@@ -4,7 +4,8 @@ import java.util.ArrayList;
 /**
  * The ElevensBoard class represents the board in a game of Elevens.
  */
-public class ElevensBoard extends Board {
+public class
+ElevensBoard extends Board {
 
     /**
      * The size (number of cards) on the board.
@@ -15,7 +16,7 @@ public class ElevensBoard extends Board {
      * The ranks of the cards for this game to be sent to the deck.
      */
     private static final String[] RANKS =
-            {"ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "jack", "queen", "king"};
+            {"ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King"};
 
     /**
      * The suits of the cards for this game to be sent to the deck.
